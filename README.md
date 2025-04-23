@@ -48,7 +48,7 @@ AtliQ Motors is a well-known electric vehicle (EV) brand from the USA, holding 2
 
 Home Page - 
 
-![image_alt](https://github.com/Shriimant/Tableau-Revenue-Profit-Analytics/blob/main/Dashboard%20-%20Revenue%20Analysis.png)
+![image_alt](https://github.com/Shriimant/Power-BI-EV-Market-Analysis/blob/main/Home%20Page%20-%20AtliQ%20Motors.png)
 
 Maker's Analysis - 
 
