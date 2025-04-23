@@ -44,6 +44,20 @@ AtliQ Motors is a well-known electric vehicle (EV) brand from the USA, holding 2
 2. There's still a lot of room to grow as current EV adoption is under 4%.
 3. Affordable and innovative players like OLA and TVS are driving the shift toward electric mobility.
 
+# Dashboard Views - 
+
+Home Page - 
+
+![image_alt](https://github.com/Shriimant/Tableau-Revenue-Profit-Analytics/blob/main/Dashboard%20-%20Revenue%20Analysis.png)
+
+Maker's Analysis - 
+
+![image_alt](https://github.com/Shriimant/Tableau-Revenue-Profit-Analytics/blob/main/Dashboard%20-%20Revenue%20Analysis.png)
+
+State Analysis - 
+
+![image_alt](https://github.com/Shriimant/Tableau-Revenue-Profit-Analytics/blob/main/Dashboard%20-%20Revenue%20Analysis.png)
+
 # Live Dashboard Link - 
 
 https://app.powerbi.com/view?r=eyJrIjoiOTZiNTgzZTEtNmU1Yi00NDBjLWE0ZWMtNmZiOWFmMDNiZThlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
