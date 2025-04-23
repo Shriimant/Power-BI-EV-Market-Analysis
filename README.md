@@ -52,7 +52,7 @@ Home Page -
 
 Maker's Analysis - 
 
-![image_alt](https://github.com/Shriimant/Tableau-Revenue-Profit-Analytics/blob/main/Dashboard%20-%20Revenue%20Analysis.png)
+![image_alt](https://github.com/Shriimant/Power-BI-EV-Market-Analysis/blob/main/Maker's%20Analysis.png)
 
 State Analysis - 
 
