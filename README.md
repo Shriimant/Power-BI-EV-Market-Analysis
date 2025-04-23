@@ -56,7 +56,7 @@ Maker's Analysis -
 
 State Analysis - 
 
-![image_alt](https://github.com/Shriimant/Tableau-Revenue-Profit-Analytics/blob/main/Dashboard%20-%20Revenue%20Analysis.png)
+![image_alt](https://github.com/Shriimant/Power-BI-EV-Market-Analysis/blob/main/State%20Analysis.png)
 
 # Live Dashboard Link - 
 
